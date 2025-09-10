@@ -12,7 +12,7 @@ A comprehensive, command-line based Student Management System (SMS) built in Jav
 
 | Main Menu | Add New Student | Enroll Student |
 | :---: | :---: | :---: |
-| ![Main Menu](SS/menu.png) | ![Add Student](SS/add-student.png) | ![Enroll Student](SS/enroll.png) |
+| ![Main Menu](SS/menu.png) | ![Add Student](SS/add-student.png) | ![Enroll Student](SS/enroll-student.png) |
 
 | Update Marks | View Report Card |
 | :---: | :---: |
