@@ -7,9 +7,16 @@
 A comprehensive, command-line based Student Management System (SMS) built in Java. This application connects to a PostgreSQL database to manage student, course, and enrollment data for a multi-department college environment. The data and business logic (grading, SGPA calculation) are modeled after the official curriculum of BMS College of Engineering (BMSCE).
 
 ---
-## 🎬 Demo
 
-![App Demo](SS/app-screenshot.png)
+### Application Showcase
+
+| Main Menu | Add New Student | Enroll Student |
+| :---: | :---: | :---: |
+| ![Main Menu](SS/menu.png) | ![Add Student](SS/add-student.png) | ![Enroll Student](SS/enroll.png) |
+
+| Update Marks | View Report Card |
+| :---: | :---: |
+| ![Update Marks](SS/update-marks.png) | ![Report Card](SS/report-card.png) |
 
 ---
 
